@@ -1,5 +1,8 @@
 import 'package:flutter/material.dart';
 
+import 'package:disenos/screens/basic_design.dart';
+
+
 void main() => runApp(const MyApp());
 
 class MyApp extends StatelessWidget {
@@ -7,27 +10,14 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const MaterialApp(
+    return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Material App',
-      home:  _HomeScreen(),
+      initialRoute: 'basic_design',
+      routes: {
+        'basic_design': (_) => const BasicDesignScreen()
+      },
     );
   }
 }
 
-class _HomeScreen extends StatelessWidget {
-  const _HomeScreen({
-    Key? key,
-  }) : super(key: key);
-
-  @override
-  Widget build(BuildContext context) {
-    return Column(
-      mainAxisAlignment: MainAxisAlignment.center,
-      children: const [
-          Text('Hola Mundo'),
-          Text('Hola Mundo'),
-      ],
-    );
-  }
-}
