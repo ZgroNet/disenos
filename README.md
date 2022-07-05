@@ -1,6 +1,10 @@
-# Diseños: Building layouts
+# Diseño básico: Building layouts
 
 <img src="https://raw.githubusercontent.com/ZgroNet/disenos/main/screenshots/Screenshot_Final_App_Demo.png" width="300">
+
+# Diseño con scroll
+
+<img src="https://raw.githubusercontent.com/ZgroNet/disenos//main/screenshots/Screenshot_Final_Diseño_con_Scroll.png" width="300">
 
 ## Acerca de:
 
