@@ -1,16 +1,15 @@
-# disenos
+# Diseños: Building layouts
 
-A new Flutter project.
+<img src="https://raw.githubusercontent.com/ZgroNet/disenos/main/screenshots/Screenshot_Final_App_Demo.png" width="300">
 
-## Getting Started
+## Acerca de:
 
-This project is a starting point for a Flutter application.
+Implementación personalizada del tutorial 'Building Layouts' de flutter.dev 
+junto a la sección 'Diseños en flutter' del curso de Fernando Herrera
 
-A few resources to get you started if this is your first Flutter project:
+Links de interés:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Building layouts](https://docs.flutter.dev/development/ui/layout/tutorial#step-0-create-the-app-base-code)
+- [Flutter: Tu guía completa de desarrollo para IOS y Android](https://www.udemy.com/course/flutter-ios-android-fernando-herrera/)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
