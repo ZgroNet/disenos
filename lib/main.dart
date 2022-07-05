@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Material App',
+      title: 'Flutter layout demo',
       initialRoute: 'basic_design',
       routes: {
         'basic_design': (_) => const BasicDesignScreen()
