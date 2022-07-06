@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:disenos/widgets/background.dart';
 import 'package:disenos/widgets/custom_bottom_navigation.dart';
 import 'package:disenos/widgets/page_title.dart';
+import 'package:disenos/widgets/table_cards.dart';
 
 class HomeScreen extends StatelessWidget {
    
@@ -17,7 +18,6 @@ class HomeScreen extends StatelessWidget {
           Background(),
           // Cuerpo principal
           _HomeBody()
-
         ],
       ),
       // Botonera abajo
@@ -38,6 +38,9 @@ class _HomeBody extends StatelessWidget {
         children: const [
           //Titulos
           PageTitle(),
+
+          //Tarjetas botoneras
+          TableCards(),
         ],
       ),
     );
