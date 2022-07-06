@@ -4,7 +4,11 @@
 
 # Diseño con scroll
 
-<img src="https://raw.githubusercontent.com/ZgroNet/disenos//main/screenshots/Screenshot_Final_Diseño_con_Scroll.png" width="300">
+<img src="https://raw.githubusercontent.com/ZgroNet/disenos/main/screenshots/Screenshot_Final_Diseño_con_Scroll.png" width="300">
+
+# Diseño compuesto
+
+<img src="https://raw.githubusercontent.com/ZgroNet/disenos/main/screenshots/Screenshot_Final_Diseño_compuesto.png" width="300">
 
 ## Acerca de:
 
